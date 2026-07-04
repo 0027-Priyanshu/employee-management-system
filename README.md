@@ -34,123 +34,32 @@ A full-stack web application for managing employees, departments, and attendance
 
 ## Screenshots
 
+### Login
+
+<img width="405" height="471" alt="login-ems" src="https://github.com/user-attachments/assets/883e084b-feab-4e50-97e9-82feb3d2a616" />
+
 ### Dashboard
-![Dashboard](add-your-image-link-here)
+
+<img width="1462" height="717" alt="dashboard-ems" src="https://github.com/user-attachments/assets/a31af200-f3ab-41ca-b39b-ab9d0e208219" />
+
 
 ### Employee List
-![Employee List](add-your-image-link-here)
 
-### Add Employee Page
-![Add Employee](add-your-image-link-here)
+<img width="1464" height="707" alt="employee" src="https://github.com/user-attachments/assets/be569cf4-ca95-4ea5-a830-dfa877759b6d" />
 
----
+### Add and Search Employee 
 
-## How to Run Locally
-```bash
-git clone https://github.com/0027-Priyanshu/ems-project.git
-cd ems-project
-npm install
-npm start# Employee Management System
+<img width="1470" height="716" alt="search employee" src="https://github.com/user-attachments/assets/72d8367c-c90b-4fb8-b162-197808b8cfca" />
 
-A full-stack web application for managing employees, departments, and attendance through a clean admin dashboard.
-
----
-
-## Features
-- Add, update, delete employees  
-- Department management  
-- Attendance tracking  
-- Admin dashboard  
-
----
-
-## Tech Stack
-- Frontend: React  
-- Backend: Node.js, Express  
-- Database: MongoDB  
-
----
-
-## Screenshots
-
-### Dashboard
-![Dashboard](add-your-image-link-here)
-
-### Employee List
-![Employee List](add-your-image-link-here)
-
-### Add Employee Page
-![Add Employee](add-your-image-link-here)
-
----
-
-## How to Run Locally
-```bash
-git clone https://github.com/0027-Priyanshu/ems-project.git
-cd ems-project
-npm install
-npm start# Employee Management System
-
-A full-stack web application for managing employees, departments, and attendance through a clean admin dashboard.
-
----
-
-## Features
-- Employee management (add, update, delete, search)
-- Department management
-- Attendance tracking
-- Secure login/logout system
-- Admin dashboard
-
----
-
-## Tech Stack
-- Frontend: React  
-- Backend: Node.js, Express  
-- Database: MongoDB  
-
----
-
-## Screenshots
-
-### Login Page
-![Login](./screenshots/login.png)
-
----
-
-### Dashboard
-![Dashboard](./screenshots/dashboard.png)
-
----
-
-### Employee Management
-![Employee](./screenshots/employee.png)
-
----
-
-### Search Employee
-![Search Employee](./screenshots/search-employee.png)
-
----
-
-### Departments
-![Departments](./screenshots/departments.png)
-
----
 
 ### Attendance
-![Attendance](./screenshots/attendance.png)
+
+<img width="1463" height="709" alt="attendance-ems" src="https://github.com/user-attachments/assets/63218db8-2019-4307-b382-1ec09e42d893" />
+
+### Departments
+
+<img width="1459" height="707" alt="departments" src="https://github.com/user-attachments/assets/2e81b75d-92cf-4be5-b566-69ef96fa0346" />
+
 
 ---
 
-### Sign Out Page
-![Sign Out](./screenshots/signout.png)
-
----
-
-## How to Run Locally
-```bash
-git clone https://github.com/0027-Priyanshu/ems-project.git
-cd ems-project
-npm install
-npm start
